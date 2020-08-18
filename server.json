@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Relógio Scuderia Ferrari",
+      "image_url": "https://cdn.shopify.com/s/files/1/1902/9663/products/scuderia-ferrari-red-silicone-mens-watch-830517_800x.jpg?v=1536903922",
+      "price": 5000
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Máscara Renault",
+      "image_url": "https://shop.renaultsport.com/Formule1/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/5/050620_illustration_masque_de_protection_renault_dp_world_f1_team-removebg_1__2.png",
+      "price": 30
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Mochila Notebook",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/img/89507/5/89507573_1SZ.jpg",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Fone Edifier w800BT",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTh53NtqQ67C9I2H92gf3iFUM5ZjinDlod63b1-saHE6Qv1atOkoSM&usqp=CAc",
+      "price": 320
     }
   ]
 }
